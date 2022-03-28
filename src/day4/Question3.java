@@ -2,6 +2,8 @@ package day4;
 
 import java.util.Scanner;
 
+//Write a java program find the sum of two
+//numbers and their average.
 public class Question3 {
 
 	public static void main(String[] args) {
