@@ -2,6 +2,7 @@ package day4;
 
 import java.util.Scanner;
 
+//write a program to find the root of quadratic equation.
 public class Question10c {
 
 	public static void main(String[] args) {
