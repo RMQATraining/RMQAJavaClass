@@ -2,6 +2,7 @@ package day4;
 
 import java.util.Scanner;
 
+//write a program to find the area of triangle.
 public class Question10b {
 
 	public static void main(String[] args) {
