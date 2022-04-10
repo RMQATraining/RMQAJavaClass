@@ -24,5 +24,6 @@ public class Addition {
 		addition.add(4, 5);
 		addition.add(4, 5, 6);
 		addition.add(4.1, 5.2, 6.3);
+		System.out.println("ram".toUpperCase());
 	}
 }
